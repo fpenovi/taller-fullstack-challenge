@@ -1,0 +1,16 @@
+{
+  "name": "js-challenge",
+  "version": "1.0.0",
+  "description": "Taller Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Francisco Penovi",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "babel-jest": "^27.4.6",
+    "jest": "^27.4.7"
+  }
+}
